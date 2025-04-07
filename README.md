@@ -1,4 +1,4 @@
-🕹️ Mavens Game
+🕹️ Quick decision making Game
 A fast-paced keyboard reaction game with real-time scoring, a dynamic leaderboard, and celebratory confetti for winners. Built with React, TypeScript, MUI, and styled-components.
 
 🚀 Features
@@ -9,7 +9,7 @@ Centralized theme system (theme.ts) – defines consistent colors, typography, s
 Responsive design – works on all size devices
 Restart flow – instantly jump back into the game
 Loading indicators and error handling
-Confetti celebration – animated confetti for first place
+Confetti celebration – animated confetti for first place(check if userId match)
 
 🧱 Tech Stack
 React + TypeScript
@@ -21,7 +21,6 @@ react-use for utility hooks (like useWindowSize)
 
 
 Installation
-1.git clone https://github.com/your-username/mavens-game.git
-2.cd mavens-game
-3.npm install
-4.npm run dev
+1.git clone
+2.npm install
+3.npm run dev
