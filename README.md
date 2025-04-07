@@ -23,5 +23,5 @@ react-use for utility hooks (like useWindowSize)
 Installation
 1.git clone
 2.cd .\quick-decision-making-game-app\
-2.npm install
-3.npm run dev
+3.npm install
+4.npm run dev
